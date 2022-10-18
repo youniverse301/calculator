@@ -1,0 +1,163 @@
+body {
+    align-items: center;
+    padding-top: 300px;
+    
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 175px;
+    padding-right: 175px;
+}
+.display {
+    display: flex;
+    justify-content: center;
+    width: 165px;
+    margin: 1px;
+    padding-top: 15px;
+}
+.row1 {
+    display: flex;
+    align-content: center;
+    margin: 1px;
+    
+}
+
+.row2 {
+    display: flex;
+    justify-content: center;
+    margin: 1px;
+}
+
+.row3 {
+    display: flex;
+    justify-content: center;
+    margin: 1px;
+}
+
+.row4 {
+    display: flex;
+    justify-content: center;
+    margin: 1px;
+}
+
+.clearRow {
+    display: flex;
+    align-self: center;
+    padding-right: 100px;
+    margin: 1px;
+    padding-bottom: 12px;
+}
+
+.seven {
+    min-width: 50px;
+    min-height: 50px;
+    margin: 1px;
+    background-color: rgb(61,89,114);
+}
+.eight {
+    min-width: 50px;
+    min-height: 50px;
+    margin: 1px;
+    background-color: rgb(61,89,114);
+}
+.nine {
+    min-width: 50px;
+    min-height: 50px;
+    margin: 1px;
+    background-color: rgb(61,89,114);
+}
+.divide {
+    min-width: 50px;
+    min-height: 50px;
+    margin: 1px;
+    background-color: rgb(247,109,71);
+}
+.four {
+    min-width: 50px;
+    min-height: 50px;
+    margin: 1px;
+    background-color: rgb(61,89,114);
+}
+.five {
+    min-width: 50px;
+    min-height: 50px;
+    margin: 1px;
+    background-color: rgb(61,89,114);
+}
+.six {
+    min-width: 50px;
+    min-height: 50px;
+    margin: 1px;
+    background-color: rgb(61,89,114);
+}
+.multiply {
+    min-width: 50px;
+    min-height: 50px;
+    margin: 1px;
+    background-color: rgb(247,109,71);
+}
+.one {
+    min-width: 50px;
+    min-height: 50px;
+    margin: 1px;
+    background-color: rgb(61,89,114);
+}
+.two {
+    min-width: 50px;
+    min-height: 50px;
+    margin: 1px;
+    background-color: rgb(61,89,114);
+}
+.three {
+    min-width: 50px;
+    min-height: 50px;
+    margin: 1px;
+    background-color: rgb(61,89,114);
+}
+.minus {
+    min-width: 50px;
+    min-height: 50px;
+    margin: 1px;
+    background-color: rgb(247,109,71);
+}
+.zero {
+    min-width: 50px;
+    min-height: 50px;
+    margin: 1px;
+    background-color: rgb(61,89,114);
+}
+.dot {
+    min-width: 50px;
+    min-height: 50px;
+    margin: 1px;
+    background-color: rgb(61,89,114);
+}
+.equals {
+    min-width: 50px;
+    min-height: 50px;
+    margin: 1px;
+    background-color: rgb(247,109,71);
+}
+.plus {
+    min-width: 50px;
+    min-height: 50px;
+    margin: 1px;
+    background-color: rgb(247,109,71);
+}
+.clear {
+    min-width: 105px;
+    min-height: 50px;
+    margin: 1px;
+    background-color: rgb(196,109,120);
+}
+#displayNum {
+    min-width: 206px;
+    min-height: 50px;
+    margin: 1px;
+    background-color: rgb(184,209,195);
+    font-size: larger;
+}
